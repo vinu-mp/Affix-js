@@ -1,0 +1,44 @@
+body {
+  margin:0;
+  padding:0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: cadetblue;
+  padding: 40px 0px;
+}
+
+article {
+  margin: 20px 0px;
+}
+
+.random-content2 {
+  width: 100%;
+  height: 680px;
+  background-color: #0b1230;
+  color: #fff;
+}
+
+#nav1 li {
+  padding: 10px;
+}
+
+.affix {
+  position: fixed !important;
+  top:0px;
+}
+
+.nav {
+  width: 30%;
+  align-self: end;
+  list-style-type: none;
+}
+
+.affix-bottom {
+  position: absolute; 
+}
+
